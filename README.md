@@ -2,9 +2,8 @@
 
 Email: 👉 ✉️ mdakramhussain0000@gmail.com For Collaboratio
 
-🔭 I’m currently working on: Enter your project js script
 🌱 I’m currently learning: web devlopment (html , css , java script , react , git and github
-🤔 I’m looking a guider who will give real market knowledge
+🤔 I’m looking a guider who will give real software market knowledge
 📫 How to reach me: mdakramhussain0000@gimail.com
 😄 Pronouns: md akram hussain
 ⚡ Fun fact: I LOVE PROGRAMING WITH CREATIVITY
